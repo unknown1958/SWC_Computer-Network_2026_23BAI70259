@@ -1,4 +1,4 @@
-# NETWORK:
+# 1) NETWORK:
 A computer network is a group of 2/more devices connected together for sharing resouses.
 
 ### TYPES:
@@ -40,8 +40,8 @@ It is the Physical address of a device. For a device there can be only one MAC a
 - Uses IP adress for communication.
 - Find the best path for routing data packets from source to destination.
 
-
-# OSI MODEL
+<br><br>
+# 2) OSI MODEL
 - OSI model was intoduced to deal with the problem of communication between 2 different networks(companies) beacuase they had different venders.
 - OSI model helps to communicatebtw different venders.
 - Layer Architectur(7 Layers)
@@ -55,7 +55,8 @@ It is the Physical address of a device. For a device there can be only one MAC a
 |Data Link Lyaer|MAC+Frames|
 |Physical Layer|Bits/signals|
 
-# TRANSPORT LAYER
+<br><br>
+# 3) TRANSPORT LAYER
 - Responible for end to end delivery of data.
 - PDU - segment(TCP) / Datagram(UDP)
 - Ensures reliable delivery by
@@ -82,13 +83,11 @@ It is the Physical address of a device. For a device there can be only one MAC a
 ### 3 WAY HANDSHAKE:
 It is used to establish a realable communication between the sender and the reciever befor the actual data transfer.
 
-S -----SYN-----> R
-
-S <---SYN-ACK--- R
-
+S -----SYN-----> R <br>
+S <---SYN-ACK--- R <br>
 S -----ACK-----> R
 
-
+<br><br>
 # ABBRIVIATION
 |PAN| Personal Arean Network|
 |-|-|
