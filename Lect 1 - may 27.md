@@ -31,7 +31,7 @@ CAM table stores 2 value, MAC adress of the device and the port of the switch wh
 |MAC of PC2|	2|
 |MAC of PC3|	3|
 
-### MAC ADRESS:
+### MAC ADDRESS:
 It is the Physical address of a device. For a device there can be only one MAC address and it cannot be changes.
 
 ### ROUTER:
