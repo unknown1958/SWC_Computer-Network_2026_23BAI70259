@@ -2,11 +2,11 @@
 A computer network is a group of 2/more devices connected together for sharing resouses.
 
 ### TYPES:
-| PAN | Personal Area Networkc | Very small personal range|
-|-|-|-|
-| LAN | Local Area Network | small area |
-| MAN | Metropolitan Arean Network | City-level |
-| WAN | Wide Area Network | Large/gloabl |
+| PAN |  Very small personal range|
+|-|-|
+| LAN | small area |
+| MAN | City-level |
+| WAN | Large/gloabl |
 
 ### BASIC COMPONENETS:
 1. Node -> Any device in a network
@@ -41,7 +41,7 @@ It is the Physical address of a device. For a device there can be only one MAC a
 - Find the best path for routing data packets from source to destination.
 
 
-# OSI MODEL(Open System Interconnection)
+# OSI MODEL
 - OSI model was intoduced to deal with the problem of communication between 2 different networks(companies) beacuase they had different venders.
 - OSI model helps to communicatebtw different venders.
 - Layer Architectur(7 Layers)
@@ -79,3 +79,27 @@ It is the Physical address of a device. For a device there can be only one MAC a
 |Slower|Faster|
 |Higher overhead| Lower Overhead|
   
+### 3 WAY HANDSHAKE:
+It is used to establish a realable communication between the sender and the reciever befor the actual data transfer.
+
+S -----SYN-----> R
+
+S <---SYN-ACK--- R
+
+S -----ACK-----> R
+
+
+# ABBRIVIATION
+|PAN| Personal Arean Network|
+|-|-|
+|LAN| Local AreaNetwork|
+|MAN|Metropolitan Network|
+|WAN|Wide Area Network|
+|IP|Internat Protocol|
+|MAC|Media Aseses Protocol|
+|OSI|Open System Interconnectiom|
+|PDU| Protocol Data Unit|
+|TCP|Transfer Communication Protocol|
+|UDC|User Datagram Protocol|
+|SYN|Syncronize|
+|ACK|Acknolegement|
